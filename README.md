@@ -1,6 +1,7 @@
 # School-Projects-Public
   **Due to school policy, cannot publicly post projects** - *Contact me for more information on these projects*
-Class: EECS183          *All coded using c++
+
+  **Class: EECS183**         * **All coded using c++**
  
   **Project 1** - Program to help purchase the correct amount of ingredients to make focaccia bread for a party (depending on amount of people)
   
