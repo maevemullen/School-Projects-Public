@@ -12,4 +12,4 @@ Class: EECS183          *All coded using c++
   Project 5 - Implementation of a game in which the player operates 3 elevators in a busy building, making decisions and servicing requests to keep the people inside the building as happy as possible.
 
 
-  Due to school policy, cannot publicly post projects - Contact me for more information on these projects
+  ****Due to school policy, cannot publicly post projects - Contact me for more information on these projects****
